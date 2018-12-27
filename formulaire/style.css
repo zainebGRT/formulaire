@@ -1,0 +1,43 @@
+body{
+    background: -webkit-linear-gradient(-45deg, #f8ffe8 0%,#e3f5ab 33%,#b7df2d 100%);
+     font-family:"trebuchet ms",sans-serif;
+     
+}
+
+
+.page-structure{
+    width: 40%;
+    margin-left: 38%;
+    margin-top: 5px;
+}
+.item{
+    background-color:transparent;
+    padding-left: 26px;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px 5px;
+    border-color: rgb(144, 207, 85)
+    
+}
+button{
+    background-color: rgb(206, 224, 45); 
+    border: none;
+    color: rgb(6, 59, 15);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 250px;
+    border-radius: 10px 5px;
+
+}
+h5{
+        margin-top: 10px;
+    margin-bottom: -20px;
+    margin-left: 10px;
+    color: rgb(6, 59, 15);
+    width: 30%;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
